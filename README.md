@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with **Prompt Engineering**
 - 💬 Ask me about **JavaScript**
 - 📫 How to reach me: **hello@federicomoretti.it**
-- 😄 Pronouns: **he/him**
+- 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: ...
 
