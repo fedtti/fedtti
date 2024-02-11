@@ -7,5 +7,4 @@
 - 💬 Ask me about **JavaScript**
 - 📫 How to reach me: **hello@federicomoretti.it**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: ...
-
+- ⚡ Fun fact: I graduated in communication sciences and sociology…
