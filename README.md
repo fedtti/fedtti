@@ -7,4 +7,4 @@
 - 💬 Ask me about **HTML**, **CSS**, and **JavaScript**
 - 📫 How to reach me: **hello@federicomoretti.it**
 - 😄 Pronouns: **he**/**him**/**his**
-- ⚡ Fun fact: **I graduated in communication sciences (BSc) and sociology (MASc)**
+- ⚡ Fun fact: I graduated in **Communication Sciences (BSc)** and **Sociology (MASc)**
