@@ -1,7 +1,7 @@
 ### hello, world 👋
 
 - 🔭 I’m currently working on **LLMs**
-- 🌱 I’m currently learning **C**, **PostgreSQL**, **Python**, **Ruby**, and **Rust**
+- 🌱 I’m currently learning **Python** and **Rust**
 - 👯 I’m looking to collaborate on **Generative AI**
 - 🤔 I’m looking for help with **Prompt Engineering**
 - 💬 Ask me about **HTML**, **CSS**, and **JavaScript**
