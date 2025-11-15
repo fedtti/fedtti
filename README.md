@@ -7,5 +7,5 @@
 - 💬 Ask me about **HTML**, **CSS**, and **JavaScript**
 - 🧠 Diagnosed with **ADHD** and **HIP** at 40
 - 📫 How to reach me: **hello@federicomoretti.it**
-- 😄 Pronouns: **he**/**him**/**his**
+- 😄 Pronouns: **he**/**him**
 - ⚡ Fun fact: I graduated in **Communication Sciences (BSc)** and **Sociology (MASc)**
